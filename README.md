@@ -1,5 +1,7 @@
 # dla-hw2-kws
 
+Ожидаемый балл: 3 (streaming) +  2.7198 / 10 * 3.5 (compression) = 3.95
+
 Обучение базовой модели велось на Google Colab  
 ![](train.png)
 
